@@ -3,7 +3,7 @@ body{
   background-size: cover;
 }
 #txtbox{background-color: rgba(200,180,255, 0.5);
-  width: 50%;
+  width: 75%;
   margin: 3em auto;
 border-radius: 1em;
 box-shadow: 1px 2px 12px #000}
