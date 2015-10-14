@@ -14,5 +14,10 @@ color: #f1aaff;
 border-radius: .5em;
 width: 40%;
 }
+.footer-p{
+  font-size: x-small;
+}
+footer{background-color: #999;
+padding: 10px;}
 
 
